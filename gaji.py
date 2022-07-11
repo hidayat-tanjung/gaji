@@ -5,7 +5,7 @@ while lagi=='y':
 
     print ("\t \t Aplikasi Perhitungan Gaji Karyawan")
 
-    print ("\t \t\t WWW.Benang Inspirasi.Com")
+    print ("\t \t\t WWW.Nias Xploit.Com")
     print ("===============================================================================")
     nip=input("Masukan No Induk Pegawai \t: ")
     nama=input("Masukan Nama Dosen/Staff \t: ")
@@ -54,7 +54,7 @@ while lagi=='y':
 
     print ("\n")
     print ("===============================================================================")
-    print ("\t\t\t WWW.Benang Inspirasi.Com")
+    print ("\t\t\t WWW.Nias Xploit.Com")
     print ("\t\t\t Kota Gunungsitoli")
     print ("")
     print ("Nip \t\t: ",nip)
